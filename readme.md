@@ -1,4 +1,4 @@
-# Hi 👋, I'm Pratham | Embedded Systems engineed
+# Hi 👋, I'm Pratham | Embedded Systems engineer
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=pratham550&theme=tokyonight&column=7&margin-w=15&no-bg=true" alt="trophy" />
