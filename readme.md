@@ -53,6 +53,9 @@
 #### 🔹 [Water Cleaning IoT Machine](https://github.com/pratham550)
 > Automated filtration with real-time turbidity monitoring and MQTT reporting.
 
+#### 🔹 [ESP32 WIFI watch](https://github.com/pratham550/ESP_32_wifi_watch)
+> Created a ESP32 wifi watch
+> Watch has Different features settings and alarm modes along with current temperature readings
 ---
 
 ### 📫 Connect with me:
